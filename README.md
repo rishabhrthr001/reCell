@@ -1,4 +1,4 @@
-```
+
 Phone Resale Platform – UI Demo
 
 A modern frontend-only prototype for a mobile phone resale and refurbished marketplace platform.
@@ -40,8 +40,10 @@ React Router
 Mock JSON data
 
 🚀 Run Locally
+```
 npm install
 npm run dev
+```
 
 
 Open: http://localhost:3000
@@ -53,4 +55,4 @@ Built to demonstrate UX flows and validate the product idea before full developm
 🔮 Next Phase
 
 Backend APIs, pricing engine, payments, pickup scheduling, inventory, and analytics.
-```
+
